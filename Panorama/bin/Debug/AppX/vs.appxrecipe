@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANDRENOTEDELL</Machine>
+    <WindowsUser>André</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D9FCB37E9D9EB493FB727812F45DD5B4816A585D97E6A48F6E251E8AEE768AF2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a5ea446c-47fd-4391-90c1-c055cce6ff8b_1.0.0.0_neutral__pbvqzr6vqyypm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a5ea446c-47fd-4391-90c1-c055cce6ff8b_pbvqzr6vqyypm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a5ea446c-47fd-4391-90c1-c055cce6ff8b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=André</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\andré\documents\visual studio 2012\Projects\Panorama\Panorama\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-06T20:12:36.110</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\andré\documents\visual studio 2012\Projects\Panorama\Panorama\bin\Debug\Panorama.exe">
+      <PackagePath>Panorama.exe</PackagePath>
+      <Modified>2012-11-06T20:12:35.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\andré\documents\visual studio 2012\Projects\Panorama\Panorama\bin\Debug\Panorama.pdb">
+      <PackagePath>Panorama.pdb</PackagePath>
+      <Modified>2012-11-06T20:12:35.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\andré\documents\visual studio 2012\Projects\Panorama\Panorama\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\andré\documents\visual studio 2012\Projects\Panorama\Panorama\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\andré\documents\visual studio 2012\Projects\Panorama\Panorama\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\andré\documents\visual studio 2012\Projects\Panorama\Panorama\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\andré\documents\visual studio 2012\Projects\Panorama\Panorama\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-06T19:36:06.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\andré\documents\visual studio 2012\Projects\Panorama\Panorama\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\andré\documents\visual studio 2012\Projects\Panorama\Panorama\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-06T20:08:34.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\andré\documents\visual studio 2012\Projects\Panorama\Panorama\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-06T19:36:50.375</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

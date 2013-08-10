@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="Panorama.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Panorama"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="Simulação de Panorama" Style="{StaticResource HeaderTextStyle}" Margin="25"/>
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Disabled" HorizontalScrollBarVisibility="Auto">
+            <StackPanel Orientation="Horizontal">
+                <Grid Width="700" Background="LightGray" Margin="25">
+                    <TextBlock Text="Primeiro Bloco" Style="{StaticResource SubheaderTextStyle}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+                <Grid Width="450" Background="DarkGray" Margin="25">
+                    <TextBlock Text="Segundo Bloco" Style="{StaticResource SubheaderTextStyle}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+                <Grid Width="850" Background="Gray" Margin="25">
+                    <TextBlock Text="Terceiro Bloco" Style="{StaticResource SubheaderTextStyle}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
+
